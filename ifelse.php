@@ -4,8 +4,8 @@ $a = 10;
 $b = 20;
 
 if ($a > $b) {
-    echo "A is Greater";
+    echo "A is Greater.";
 } else
-    echo "B is Greater";
+    echo "B is Greater.";
 
 ?>

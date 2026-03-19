@@ -31,7 +31,7 @@ echo str_pad("divyanshu", 10, "*", STR_PAD_BOTH);
 echo "<br>";
 
 
-$str = "Hello, How are you, what are you doing";
+$str = "Hello, How are you, what are you doing.";
 
 $arr1 = explode(",", $str);
 

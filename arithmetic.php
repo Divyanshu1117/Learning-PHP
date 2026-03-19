@@ -10,7 +10,7 @@ $f = $a / $b;
 
 echo "Sum = " . $c;
 echo "<br>Subtraction = " . $d;
-echo "<br>Multiplication " . $e;
-echo "<br>Divison " . $f;
+echo "<br>Multiplication = " . $e;
+echo "<br>Divison = " . $f;
 
 ?>
