@@ -1,0 +1,31 @@
+Control Structure in PHP:-
+
+1. Decisional.
+2. Iterative.
+3. Transfer.
+
+Decisional Control Structure:-
+(or Conditional):-
+
+1) if else.
+2) if else if (Ladder if).
+3) nested if.
+   if within if is called nested if.
+4) switch case.
+   it is an alternate of ladder if.
+
+Iterative Control Structure:-
+It is used for repetition purposes.
+
+1) for loop.
+2) while loop.
+3) do while loop.
+4) foreach loop used for array only.
+
+Transfer Control Structure:-
+
+1) break.
+   outside of switch / loop block.
+
+2) continue.
+   next step of the loop.

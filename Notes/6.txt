@@ -1,0 +1,47 @@
+State Management (PHP)
+🔹 Definition
+
+By default, web pages are stateless because the HTTP protocol itself is a stateless protocol.
+
+This means:
+👉 One page does not remember the information of another page.
+
+👉 To solve this problem, State Management is used.
+
+🔹 What is State Management?
+
+State management is used when we want to carry (persist) data from one web page to another page.
+
+🔹 Types of State Management
+1️⃣ Client-Side State Management
+
+When data is stored on the client machine (browser)
+
+👉 Example: Cookies
+
+2️⃣ Server-Side State Management
+
+When data is stored on the server
+
+👉 Example: Session
+
+⭐ Session Tracking
+
+When a user logs in to the server, the server assigns a unique ID
+👉 This is called a Session ID
+
+👉 It is different for every user
+
+🔹 To start a session
+session_start();
+🔹 To store a value in session
+$_SESSION['variable'] = value;
+🔹 To read a value from session
+$phpvariable = $_SESSION['variable'];
+⭐ Important Points (For Exam)
+
+✔ HTTP is a stateless protocol
+✔ State management helps to persist data
+✔ Client-side → Cookies
+✔ Server-side → Session
+✔ Session contains a unique Session ID

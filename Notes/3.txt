@@ -1,0 +1,13 @@
+Function in PHP:-
+
+1. System Defined Function.
+2. User Defined Function.
+
+System Defined Function:-
+The pre-defined functions in the language are called system defined functions.
+
+Types of System Defined Functions:-
+
+1) String Function.
+2) Numeric Function.
+3) Date and Time Function.

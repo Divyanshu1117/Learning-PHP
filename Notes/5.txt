@@ -1,0 +1,19 @@
+Associative Array:-
+<key, value> combination.
+
+Form Handling:-
+
+Request Method:-
+- GET.
+- POST.
+
+Associative Array (Example using $_GET):-
+
+Key     Value
+t1      10
+t2      20
+bt1     sum
+
+URL Visible → Query String.
+
+demo26.php?t1=10&t2=20&bt1=sum

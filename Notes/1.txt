@@ -1,0 +1,33 @@
+PHP – Notes:-
+
+1. PHP:-
+- Full Form: Personal Home Page.
+- Developer: Rasmus Lerdorf.
+- Purpose: It was created to build resumes and attract visitors.
+- Nature: Open Source.
+
+2. PHP Definition:-
+- PHP is a Server Side Scripting Language.
+
+3. Web Server:-
+
+3.1 Types of Server:-
+
+1) Internet Server.
+- Domain + Hosting required.
+
+2) Local Server.
+- It is used for practice and development.
+
+3.2 Server Software:-
+- WAMP → Windows.
+- LAMP → Linux.
+- MAMP → Mac.
+- XAMPP → Cross Platform.
+
+3.3 Important Directories:-
+- WAMP Path: C:\wamp\www
+- XAMPP Path: C:\xampp\htdocs
+
+4. Server Used:-
+- Apache Server.
