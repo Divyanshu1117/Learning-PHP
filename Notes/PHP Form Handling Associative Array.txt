@@ -16,4 +16,4 @@ bt1     sum
 
 URL Visible → Query String.
 
-demo26.php?t1=10&t2=20&bt1=sum
+http://localhost/myphp/formget.php?t1=3&t2=5&bt1=Sum

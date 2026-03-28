@@ -1,0 +1,49 @@
+STATE MANAGEMENT
+
+Types of State Management
+
+1. Client Side
+   1.1 Cookie
+
+2. Server Side
+   2.1 Session
+
+COOKIE
+
+Cookie is a method to store data on the client machine (browser).
+Cookies store a limited amount of data.
+
+Types of Cookies
+
+1. Non-Persistent Cookie
+2. Persistent Cookie
+
+Non-Persistent Cookie
+
+It is a cookie which is automatically destroyed after closing the browser window.
+
+Persistent Cookie
+
+It is a cookie which is not destroyed after closing the browser because we set a time limit (e.g., 24 hours).
+
+LOGIN FORM
+
+Username - Textbox
+Password - Textbox
+Checkbox - Remember Me
+Login Button
+
+Writing / Storing Value in Cookie
+
+setcookie(cookievar, value, timer, "/");
+
+Reading Value from Cookie
+
+variable = $_COOKIE['cookievar'];
+
+FILE STRUCTURE
+
+1. index.php - Login page
+2. indexcode.php - Check user, store cookie, redirect
+3. welcome.php - Read cookie, display data, logout
+4. logout.php - Destroy cookie
