@@ -41,7 +41,7 @@
         ?>
             <tr>
                 <td align="center"><?php echo $row['code']; ?></td>
-                <!--<td align="center"><?php //echo $row->Code;
+                <!--<td align="center"><?php //echo $row->code;
                                         ?></td>-->
                 <td align="center"><?php echo $row['name']; ?></td>
                 <td align="center"><?php echo $row['salary']; ?></td>
