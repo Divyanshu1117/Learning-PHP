@@ -1,0 +1,60 @@
+OOPS in PHP:-
+
+OOPS = Object Oriented Programming System
+
+OOPS is a programming approach in which a program is designed in the form of objects and classes.
+In PHP, OOPS is used to make the code secure, reusable, easy to manage, and well organized.
+
+PHP supports object-oriented programming, in which we represent real-world entities through classes and objects.
+
+(*) Class and Object:-
+
+(1.) Class:-
+
+A class is a blueprint or template through which objects are created.
+It defines variables (properties) and functions (methods).
+
+Example:
+A Car can be a class that contains properties such as color, model, and speed.
+
+(2.) Object:-
+
+An object is an instance of a class.
+When a real entity is created from a class, it is called an object.
+
+Example:
+BMW, Audi, and Honda can be objects of the Car class.
+
+(*) Features of OOPS:- 
+
+1. Class
+
+A class is a template that defines the structure and behavior of an object.
+
+2. Object
+
+An object is the real instance of a class that uses its properties and methods.
+
+3. Encapsulation
+
+Encapsulation means binding data and methods into a single unit (class).
+It increases data security and helps control direct access.
+
+4. Abstraction
+
+Abstraction means showing the important details and hiding the unnecessary details.
+This makes the code simple and easy to use.
+
+5. Inheritance
+
+Inheritance means one class can inherit the properties and methods of another class.
+This increases code reusability.
+
+6. Polymorphism
+
+Polymorphism means the same function name can have different behavior in different classes.
+
+(*) Use of OOPS:- 
+
+OOPS is used for security and reusability purposes.
+It makes the code modular, reusable, secure, and easy to maintain.
