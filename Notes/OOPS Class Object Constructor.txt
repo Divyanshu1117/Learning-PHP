@@ -1,0 +1,43 @@
+OOPS (Object-Oriented Programming System)
+Class
+
+A class is a blueprint or template used to create objects.
+It defines the properties (data members) and behaviors (methods/functions) of an object.
+
+Example:
+Car is a class.
+
+Object
+
+An object is an instance of a class.
+It is a real-world entity that has state and behavior.
+
+Example:
+BMW, Audi, and Mercedes are objects of the Car class.
+
+Constructor
+
+A constructor is a special type of method that is automatically executed when an object is created.
+
+It is mainly used to initialize the object.
+
+A constructor usually has the same name as the class.
+
+In some languages like PHP, it is written as:
+
+__construct()
+
+A constructor can also take parameters.
+
+Types of Constructor
+1. Default Constructor
+
+A default constructor is a constructor that does not take any parameters.
+
+It initializes the object with default values.
+
+2. Parameterized Constructor
+
+A parameterized constructor is a constructor that takes parameters.
+
+It is used to initialize the object with user-defined values.
